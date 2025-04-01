@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewpoint" content="widh=device-width, initial-scale=1.0">
+    <title>Results</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/4.5.2/css/bootstrap.min.css">
+    <style>
+        body{
+        background-color:grey;
+        }
+        h1{
+        font-size:55px;
+        color:red;
+        }
+        h5{
+        align-items:center;
+        justify-content:center;
+        font-size:80px;
+        }
+    li{
+    font-size:45px;
+    </style>
+</head>
+<body>
+  <div class="container-mt-5">
+      <h1>Top Recommended CareerAspirations/Studies with Probabilities</h1>
+      <ul class="List-group-mt-3">
+          {% for recommendation in recommendations %}
+             <li class="List-group-item">{{ recommendation[0] }} with probability {{ recommendation[1] }}</li>
+          {% endfor %}
+      </ul>
+      <h5>THANKS</h5>
+  </div>
+</body>
+</html>
