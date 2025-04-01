@@ -1,5 +1,4 @@
 from flask import Flask,render_template,request,jsonify
-import streamlit as st
 import pickle
 import  numpy as np
 import joblib
