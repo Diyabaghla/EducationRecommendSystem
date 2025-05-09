@@ -1,7 +1,7 @@
-🎓 Education Recommendation System
+**🎓 Education Recommendation System**
 This project is a Machine Learning-based Education Recommendation System designed to assist students in discovering suitable career paths and relevant learning resources based on their academic performance and other attributes.
 
-🚀 Features
+** Features**
 Predicts the Top 5 most suitable career fields for a student
 
 Takes into account multiple parameters:
@@ -22,7 +22,7 @@ Recommends online courses based on the predicted career fields
 
 Built using Python, Flask, and Machine Learning
 
-🧠 Model Development & Selection
+**🧠 Model Development & Selection**
 We experimented with multiple machine learning models including:
 
 Logistic Regression
@@ -41,7 +41,7 @@ Random Forest
 
 The model was then serialized using Pickle along with the scaling pipeline for easy integration into the Flask web app.
 
-⚙️ Technologies Used
+**⚙️ Technologies Used**
 Python
 
 Flask
@@ -54,7 +54,7 @@ Pickle (for model serialization)
 
 HTML/CSS (Jinja2 Templates)
 
-🎯 Target Career Predictions Include
+**🎯 Target Career Predictions Include**
 Lawyer
 
 Doctor
@@ -89,7 +89,7 @@ Real Estate Developer
 
 Unknown (for exploratory paths)
 
-📈 Future Improvements
+**📈 Future Improvements**
 Add login/auth system for personalized recommendations
 
 Integrate real-time course APIs (e.g., Coursera, Udemy)
