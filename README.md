@@ -44,7 +44,7 @@ We evaluated several ML models including:
 - HTML/CSS (with Jinja2 templates)
 
 ---
-** Screebshots of the project **
+**Screebshots of the project**
 ![Screenshot 2025-05-01 105532](https://github.com/user-attachments/assets/e3b8ddc9-241c-4ef1-994d-ccb7977bf8f7)
 ---
 ![Screenshot 2025-05-01 105628](https://github.com/user-attachments/assets/d58d47bb-3dce-472c-bb7e-fbfd4b711af0)
