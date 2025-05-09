@@ -46,8 +46,11 @@ We evaluated several ML models including:
 ---
 ** Screebshots of the project **
 ![Screenshot 2025-05-01 105532](https://github.com/user-attachments/assets/e3b8ddc9-241c-4ef1-994d-ccb7977bf8f7)
+---
 ![Screenshot 2025-05-01 105628](https://github.com/user-attachments/assets/d58d47bb-3dce-472c-bb7e-fbfd4b711af0)
+---
 ![Screenshot 2025-05-01 105803](https://github.com/user-attachments/assets/e4d9c455-c9e7-41f1-87ae-98b5e1e8c726)
+---
 ![Screenshot 2025-05-01 105835](https://github.com/user-attachments/assets/d8248f16-ef9c-4f75-a832-ce70584053da)
 
 
